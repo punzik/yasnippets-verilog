@@ -1,4 +1,4 @@
-casez(${1:expression})
+casez (${1:expression})
   ${2:value1}: begin
      $0
   end // casez: $2

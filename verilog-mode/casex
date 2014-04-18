@@ -1,4 +1,4 @@
-casex(${1:expression})
+casex (${1:expression})
   ${2:value1}: begin
      $0
   end // casex: $2
